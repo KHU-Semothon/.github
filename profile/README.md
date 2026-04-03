@@ -1,4 +1,4 @@
-# 🐝 Honey Spot - KHU 세모톤 2팀
+# 🐝 Honey Spot - 세모톤 2팀
 
 <img width="5334" height="3000" alt="세모톤 2조 최종 발표-1" src="https://github.com/user-attachments/assets/dbd31dc1-8d2e-484f-ac67-2831ba390445" />
 
