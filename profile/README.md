@@ -27,6 +27,7 @@
 ## 📁 Repositories
 * 📱 **[semothon_frontend](https://github.com/KHU-Semothon/semothon_frontend):** 사용자 인터페이스 및 지도 연동을 담당하는 플러터(Flutter) 애플리케이션 저장소입니다.
 * ⚙️ **[semothon_backend](https://github.com/KHU-Semothon/semothon_backend):** 핵심 비즈니스 로직과 REST API를 제공하는 백엔드 서버 저장소입니다.
+* 📚 **[notion link](https://www.notion.so/dangyee/2-32cf2c4ba6ec809e9de9ff8f8c6120d3?source=copy_link)** 기능과 API 명세서, 회의록을 작성했습니다.
 
 ## 👨‍💻 팀원 소개 (Team)
 
