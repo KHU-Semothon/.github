@@ -1,5 +1,7 @@
 # 🐝 Honey Spot - KHU 세모톤 2팀
 
+<img width="5334" height="3000" alt="세모톤 2조 최종 발표-1" src="https://github.com/user-attachments/assets/dbd31dc1-8d2e-484f-ac67-2831ba390445" />
+
 > 여행 중 마주칠 수 있는 위험부터 숨겨진 맛집까지, 지도 위에 핀으로 소통하는 안심 여행 정보 공유 플랫폼입니다.
 
 ## 💡 프로젝트 소개
